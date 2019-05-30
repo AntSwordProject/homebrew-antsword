@@ -1,12 +1,13 @@
 Homebrew AntSwordProject things
 ==========================
 
-[中文说明](./README_CN.md)
+[English](./README.md)
 
-Allow you to install the toolkit for AntSwordProject.
+你可以通过 Homebrew 来安装 AntSwordProject 下的相关工具包.
 
-To install something, first `brew tap antswordproject/antsword` and then `brew install <formula>` or `brew cask install <cask>`.
+在你安装之前, 你需要在命令行下执行 `brew tap antswordproject/antsword` 添加第三方库到你的 Homebrew 中. 然后你可以使用 `brew install <formula>` 或者 `brew cask install <cask>` 来安装相应的软件包.
 
+下面这个例子是使用 `brew cask` 来安装 AntSword-Loader 的：
 
 eg:
 
@@ -20,7 +21,7 @@ eg:
 
 ### Casks
 
-Project | latestVersion | caskname
+项目 | 最新版本 | caskname
 :-:|:-:|:-:
 [AntSword-Loader](https://github.com/AntSwordProject/AntSword-Loader) | 4.0.3 | antsword-loader
 
