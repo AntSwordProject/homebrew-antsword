@@ -5,7 +5,7 @@ class Antsword < Formula
   homepage "https://github.com/AntSwordProject/antSword"
   head "https://github.com/AntSwordProject/antSword.git"
   url "https://github.com/AntSwordProject/antSword", :using => :git
-  version "2.1.5"
+  version "2.1.6"
 
   def install
     prefix.install Dir["*"]
