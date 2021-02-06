@@ -60,4 +60,4 @@ when you installed antsword-loader, run AntSword.app in Launchpad and
 
 Project | latestVersion | formula
 :-:|:-:|:-:
-[AntSword](https://github.com/AntSwordProject/AntSword) | 2.1.8 | antsword
+[AntSword](https://github.com/AntSwordProject/AntSword) | 2.1.10 | antsword
